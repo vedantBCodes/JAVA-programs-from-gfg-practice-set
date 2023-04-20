@@ -1,7 +1,7 @@
 package programs.gfgprcaticeset;
 //Given a string str as input. Delete the characters at odd indices of the string.
 
-import java.util.Scanner; 
+import java.util.Scanner;      //Remember Strings are immutable
 
 public class DeletingAlternateCharacters {
     public static void main(String[] args) {
