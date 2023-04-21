@@ -16,9 +16,6 @@ public class MaximumOfAllSubarrays {
             arr[i]=obj.nextInt();
         }
         int x=3;
-       /*int size=8;
-       int arr[]={1,2,3,4,5,6,7,8};
-       int x=3;*/
        int max;
         System.out.print("Maximum numbers in a contigous subarrays of size 3 are:");
         for(int i=0;i<size;i++)
